@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Box
+  - LifeBar
+  - Boss
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Enemy Bullet
+  - Player
+  - Ground
+  - Interactible
+  - Platform
+  - Box
+  - BossBullet
+  - Boss
+  - Limits
+  - Detector
+  - BoxBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background Image
+    uniqueID: 4047152753
+    locked: 0
+  - name: 'Background '
+    uniqueID: 1756148987
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 2543535847
+    locked: 0
